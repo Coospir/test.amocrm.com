@@ -102,7 +102,7 @@
                 503 => 'Service unavailable'
             );
 
-            #Если код ответа не равен 200 или 204 - возвращаем сообщение об ошибке
+
 
 
             $Response = json_decode($out, true);
